@@ -1,6 +1,4 @@
 # DeliMate - Delivery Management System 
-![DeliMate Logo](Documentation/DeliMate%20logo.jpeg)
-
 My class 12 python project
 
 ## Overview
@@ -86,5 +84,7 @@ As this was my first coding project, there are several areas for potential enhan
 - Web or mobile interface
 
 ---
+
+![DeliMate Logo](Documentation/DeliMate%20logo.jpeg)
 
 *DeliMate - Simplifying Delivery Management*
