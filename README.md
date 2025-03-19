@@ -1,5 +1,4 @@
 # DeliMate - Delivery Management System 
-My class 12 python project
 
 ## Overview
 
