@@ -1,5 +1,5 @@
 # DeliMate - Delivery Management System 
-![DeliMate Logo](Documentation/DeliMate%20logo.jpeg)
+![DeliMate Logo](Documentation/DeliMate%20logo.png)
 
 My class 12 python project
 
